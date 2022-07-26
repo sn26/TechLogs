@@ -1,0 +1,9 @@
+setup.py
+actions_client/__init__.py
+actions_client/action_logger.py
+actions_client_cnn.egg-info/PKG-INFO
+actions_client_cnn.egg-info/SOURCES.txt
+actions_client_cnn.egg-info/dependency_links.txt
+actions_client_cnn.egg-info/entry_points.txt
+actions_client_cnn.egg-info/requires.txt
+actions_client_cnn.egg-info/top_level.txt

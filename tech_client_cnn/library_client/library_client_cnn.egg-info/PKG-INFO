@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: library-client-cnn
+Version: 1.1.0
+Summary: Implements methods an services with to interact with the CNN SERVER API.
+Home-page: UNKNOWN
+Author: 
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+
+Implements methods an services with to interact with the CNN SERVER API.
+

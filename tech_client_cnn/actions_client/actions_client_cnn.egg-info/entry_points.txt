@@ -1,0 +1,3 @@
+[console_scripts]
+actions_client_cnn = actions_client.action_logger:main
+

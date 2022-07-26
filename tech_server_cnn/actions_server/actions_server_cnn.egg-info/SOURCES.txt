@@ -1,0 +1,9 @@
+setup.py
+actions_server/__init__.py
+actions_server/actions_server.py
+actions_server_cnn.egg-info/PKG-INFO
+actions_server_cnn.egg-info/SOURCES.txt
+actions_server_cnn.egg-info/dependency_links.txt
+actions_server_cnn.egg-info/entry_points.txt
+actions_server_cnn.egg-info/requires.txt
+actions_server_cnn.egg-info/top_level.txt

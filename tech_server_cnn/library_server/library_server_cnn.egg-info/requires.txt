@@ -1,0 +1,9 @@
+numpy
+pythran
+Flask
+flask_restful
+Cython
+pkgconfig
+tensorflow
+keras
+scikit-image==0.16.1

@@ -1,0 +1,3 @@
+[console_scripts]
+actions_server_cnn = actions_server.actions_server:main
+

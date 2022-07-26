@@ -1,0 +1,15 @@
+setup.py
+library_server/__init__.py
+library_server/api/__init__.py
+library_server/api/img_tooler.py
+library_server/api/model_trained.py
+library_server/api/server_cnn.py
+library_server/model/__init__.py
+library_server/model/model_weights.py
+library_server/service/__init__.py
+library_server/service/server_endpoint.py
+library_server_cnn.egg-info/PKG-INFO
+library_server_cnn.egg-info/SOURCES.txt
+library_server_cnn.egg-info/dependency_links.txt
+library_server_cnn.egg-info/requires.txt
+library_server_cnn.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: library-server-cnn
+Version: 1.1.0
+Summary: Implements methods to make a functional CNN API SERVER
+Home-page: UNKNOWN
+Author: 
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+
+Implements methods to make a functional CNN API SERVER
+

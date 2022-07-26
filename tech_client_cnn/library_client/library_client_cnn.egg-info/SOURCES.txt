@@ -1,0 +1,12 @@
+setup.py
+library_client/__init__.py
+library_client/api/__init__.py
+library_client/api/client_request_sender.py
+library_client/api/log_img_generator.py
+library_client/services/__init__.py
+library_client/services/client_service.py
+library_client_cnn.egg-info/PKG-INFO
+library_client_cnn.egg-info/SOURCES.txt
+library_client_cnn.egg-info/dependency_links.txt
+library_client_cnn.egg-info/requires.txt
+library_client_cnn.egg-info/top_level.txt
